@@ -1,0 +1,6 @@
+"markdown.extension.toc.ommittedFromToc": {
+  "README.md": [
+    "# Introduction",
+    "## Also omitted"
+  ]
+}

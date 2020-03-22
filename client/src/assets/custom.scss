@@ -1,0 +1,9 @@
+// Override default variables before the import
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+.navbar {
+  border-bottom: rgb(0, 255, 30) 10px solid;
+  opacity: 1;
+}
